@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Springboot21Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(Springboot21Application.class, args);
+        SpringApplication.run(Springboot21Application.class , args);
     }
 
 }
